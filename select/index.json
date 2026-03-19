@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "전야 前夜 The Eve",
+  "base_artist": "EXO",
+  "createdAt": "2026-03-19T10:02:15.288999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "전야 (前夜) (The Eve)",
+      "artist": "엑소 (EXO)",
+      "has_synced": true,
+      "path": "select/01_전야_(前夜)_(The_Eve)_엑소_(EXO).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "전야 前夜 The Eve",
+      "artist": "EXO",
+      "has_synced": false,
+      "path": "select/pl_01_전야_前夜_The_Eve_EXO.txt"
+    }
+  ]
+}
